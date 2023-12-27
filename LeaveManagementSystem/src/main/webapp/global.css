@@ -1,0 +1,41 @@
+
+  .leavecard{
+      
+    background-color: #afeef7!important;
+    border-radius: 10px 10px 10px 10px;
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);    
+  }
+  .leavecard:hover{
+       transform: scale(1.10);
+  }
+
+    
+  ul li:hover{
+        transform: scale(1.15);
+  }
+  
+  .card-img-top{
+    width: 12px;
+    height: 72px;
+  }
+  .card-body{
+    font-size: 82%
+  }
+  .side-bar
+{
+    background-image: linear-gradient(rgb(222, 250, 252), rgb(222, 246, 249), rgb(223, 239, 244), 
+    rgb(224, 232, 239), rgb(224, 225, 233),rgb(240, 235, 240));
+
+}
+.navbar
+{
+    background-image: linear-gradient(rgb(222, 250, 252), rgb(222, 246, 249),rgb(223, 239, 244));
+    box-shadow:  5px 5px 5px 5px #64FFFF;
+}
+.col-auto
+{
+    
+   
+    background-image: linear-gradient(rgb(222, 250, 252), rgb(222, 246, 249), rgb(223, 239, 244), 
+    rgb(224, 232, 239), rgb(224, 225, 233),rgb(240, 235, 240));
+}
